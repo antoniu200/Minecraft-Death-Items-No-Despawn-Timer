@@ -15,7 +15,7 @@ If you have any questions, post in `Discussions`.
 
 # **Installation instructions:**
 - Inside your Minecraft folder *(check your profile settings to find it),* you should find a subdirectory called `saves`.
-- Inside that directory, select the world you want to insert this datapack into and place the .ZIP inside the `datapacks` subdirectory (i.e. %appdata%\.minecraft\saves\World\datapacks\despawnextend.zip).
+- Inside that directory, select the world you want to insert this datapack into and place the .ZIP inside the `datapacks` subdirectory (i.e. %appdata%\\.minecraft\saves\World\datapacks\despawnextend.zip).
 
 # **Credits:**
 - @TheRobified: https://www.planetminecraft.com/data-pack/item-despawn-time-increase/
