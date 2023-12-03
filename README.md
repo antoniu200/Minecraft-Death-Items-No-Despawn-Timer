@@ -3,7 +3,10 @@
 Items and XP dropped upon death will not despawn anymore.
 
 Tested on Minecraft 1.20, in Overworld, Nether and End, on Multiplayer game.
-If you find any bugs, make sure to offer instructions on how to reproduce them (steps, Minecraft version).
+
+If you find any bugs, or have suggestions, post in `Issues`. Make sure to provide as much detail as possible.
+
+If you have any questions, post in `Discussions`.
 
 # **Behaviour of script:**
 1. Upon death, an Armor Stand is summoned at player's location.
